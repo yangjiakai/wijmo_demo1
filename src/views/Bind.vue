@@ -23,7 +23,7 @@
       </v-col>
       <v-col cols="4">
         <v-card height="500" width="400" color="indigo" class="pa-5" :dark="dark">
-                cardcardcar
+                cardcardcarcar
         </v-card>
       </v-col>
     </v-row>
